@@ -3,6 +3,7 @@ This is my first project in Swift.
 
 I created an calculator for taxation (based in germany). 
 The UI is created with the Storyboard.
+Example Pics are also avaible in directory (BSPpic.png) 
 I use simple variables and simple if else structures.
 Also I do the simple math in my function.
 
